@@ -101,10 +101,14 @@ set_property -dict { PACKAGE_PIN D5 IOSTANDARD LVCMOS33 } [get_ports {an[0]}]
 set_property -dict { PACKAGE_PIN C4 IOSTANDARD LVCMOS33 } [get_ports {an[1]}]
 set_property -dict { PACKAGE_PIN C7 IOSTANDARD LVCMOS33 } [get_ports {an[2]}]
 set_property -dict { PACKAGE_PIN A8 IOSTANDARD LVCMOS33 } [get_ports {an[3]}]
+
 ```
 ## FPGA Implementation Output
 
-<img width="782" height="540" alt="image" src="https://github.com/user-attachments/assets/6d549830-34b0-4916-9370-fc680e71f881" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/6fe3fc6a-49b2-4fc0-bae5-2be5c9fc55a0" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/ee304430-23f4-4992-879d-3ee48cb2a27f" />
+
+
 
 
 ---
